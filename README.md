@@ -12,6 +12,7 @@ Cluster Management: Configuring SLURM and Warewulf for small-scale HPC clusters.
 Explore the Wiki to learn about my projects, technical setups, and problem-solving approaches.
 Featured Projects
 1. Setting up the lab environment hardware.
+2. Parallel Processing with rust
 
 Key Resources
 
