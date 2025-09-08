@@ -1,5 +1,5 @@
 # HPCLabs
-HPC Lab Work 
+
 Welcome to my HPC lab work Wiki! This repository showcases my projects and skills in High Performance Computing (HPC), developed through hands-on lab experiments and self-directed learning. My work focuses on parallel computing, GPU programming, and cluster management, with the goal of contributing to cutting-edge computational research.
 About This Repository
 This repository contains my personal HPC lab projects, including code, documentation, and tutorials. I plan on learning the following.
